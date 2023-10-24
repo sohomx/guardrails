@@ -2,3 +2,5 @@ alt-profanity-check
 openai
 guardrails-ai
 python-dotenv 
+guardrails>=2.0.0
+
